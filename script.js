@@ -28,7 +28,7 @@ let days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "S
 //         from the array.
 let day=days[daynum]
 // STEP 5: Display the day name in the element with ID "warmUpDate"
-//         using document.getElementById("warmUpDate").innerHTML
+//         uusing document.getElementById("warmUpDate").innerHTML
 document.getElementById("warmUpDate").innerhtml=day
 
 // ============================================
